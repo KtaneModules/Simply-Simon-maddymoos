@@ -11,14 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: int##
-  title: int##
+  id: simplysimon
+  title: Simply Simon
   author: Cooldoom5
-  description: 'Whoops! Dropped the manual while getting this to you, so I guess you''ll
-    have to figure it out yourselves!
-
-
-    Module ID: int##'
-  version: 1.2
-  outputFolder: E:\Setam\steamapps\common\Keep Talking And Noboty Explodes\mods
-  previewImage: {fileID: 2800000, guid: daa995ad72d77994c8e7e6ad641e979b, type: 3}
+  description: "Just press the flash\u2122\n\nModuleId: simplysimon"
+  version: 1.1
+  outputFolder: E:\Setam\steamapps\common\Keep Talking And Nobody Explodes\mods
+  previewImage: {fileID: 2800000, guid: ba3061f46b1b01141983079f93522eb2, type: 3}
